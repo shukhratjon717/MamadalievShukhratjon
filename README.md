@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shukhratjon Mamadaliev</h1>
 <h3 align="center">An amateur frontend developer from Uzbekistan</h3>
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="400">
 
 
 <h3 align="left">Connect with me:</h3>
